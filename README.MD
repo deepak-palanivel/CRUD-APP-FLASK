@@ -1,8 +1,6 @@
-1. Ensure you have Flask installed: 
-```
-pip install flask
+1. Ensure you have Flask installed:
 
-```
+pip install flask
 
 2. Run the app: python app.py
 
